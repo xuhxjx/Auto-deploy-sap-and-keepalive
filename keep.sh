@@ -1,9 +1,9 @@
 #!/bin/sh
 
 # 环境变量配置
-EMAIL="xxxxx@xxxx.com"   # 登录邮箱
-PASSWORD="xxxxxxxxx"     # 登录密码
-SG_ORG="xxxxtrial"       # SG组织名称
+EMAIL="xuhxjxhk@gmail.com"   # 登录邮箱
+PASSWORD="Xxsky1127"     # 登录密码
+SG_ORG="930b7cdatrial"       # SG组织名称
 US_ORG=""                # US组织名称
 SPACE="dev" # 多区请使用同样的空间名称
 
