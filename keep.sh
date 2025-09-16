@@ -4,11 +4,11 @@
 EMAIL="xuhxjxhk@gmail.com"   # 登录邮箱
 PASSWORD="Xxsky1127"     # 登录密码
 SG_ORG="930b7cdatrial"       # SG组织名称
-US_ORG=""                # US组织名称
+US_ORG="930b7cdatrial_aws-2t3oda60"                # US组织名称
 SPACE="hxjxabc" # 多区请使用同样的空间名称
 
 # 要保活的URL列表,多个用英文空格分隔
-URLS="https://api.cf.ap21.hana.ondemand.com"  
+URLS="https://api.cf.ap21.hana.ondemand.com https://api.cf.us10-001.hana.ondemand.com"  
 
 # 颜色定义
 green() {
